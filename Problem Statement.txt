@@ -1,0 +1,7 @@
+ Level 1
+Auto generate and fill an array of 100 integers with 3 digit random numbers . Display the numbers. 
+Level 2 
+Given that { a[k],a[k+1] } represent a pair,display all such pairs of numbers where a[k] - a[k+1] is prime numbers.  
+Display the count of such pairs  
+Level 3 
+Display the sub array within the array , where a[k],a[k+1],a[k+2],a[k+3],a[k+4]........a[k+n] are in the ascending order.        
